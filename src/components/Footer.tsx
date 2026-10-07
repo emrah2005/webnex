@@ -106,8 +106,8 @@ export default function Footer() {
               </h4>
               <ul className="space-y-2">
                 <li className="text-sm text-muted-400">
-                  <a href="mailto:emrahfejzuli14@gmail.com" className="hover:text-white transition-colors">
-                    emrahfejzuli14@gmail.com
+                  <a href="mailto:webnexdevv@gmail.com" className="hover:text-white transition-colors">
+                    webnexdevv@gmail.com
                   </a>
                 </li>
                 <li className="text-sm text-muted-400">

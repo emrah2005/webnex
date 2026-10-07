@@ -27,7 +27,7 @@ export async function POST(req: Request) {
     }
 
     const fromEmail = process.env.RESEND_FROM_EMAIL || "onboarding@resend.dev";
-    const toEmail = process.env.RESEND_TO_EMAIL || "emrahfejzuli14@gmail.com";
+    const toEmail = process.env.RESEND_TO_EMAIL || "webnexdevv@gmail.com";
 
     const subject = `New consultation request — ${need} from ${name}`;
 
